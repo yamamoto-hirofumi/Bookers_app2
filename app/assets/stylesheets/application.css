@@ -13,3 +13,48 @@
  *= require_tree .
  *= require_self
  */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+h1{
+  font-size: 25px;
+}
+
+.top{
+  margin: 20px;
+  font-size: 13px;
+}
+.top-heading{
+  margin-left: 15px;
+  margin-top: 30px;
+}
+.bookers{
+  font-weight: bold;
+}
+.top-text{
+  margin: 33px;
+}
+
+body{
+  margin: 33px;
+}
+
+.index{
+  padding: 5px;
+  font-size: 15px;
+}
+
+.bun{
+  padding: 5px;
+}
+
+.show-text{
+  padding: 20px;
+}
+
+.actions{
+  margin: 5px;
+}
